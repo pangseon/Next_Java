@@ -3,6 +3,6 @@ public class Main {
         System.out.println("Hello world!");
         // 깃허브 연습중
         // git pr
-        //
+        // git 연습
     }
 }
